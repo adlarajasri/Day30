@@ -1,0 +1,8 @@
+D:\UST\Day30\ArraySMJ\ArraySMJ\bin\Debug\ArraySMJ.exe.config
+D:\UST\Day30\ArraySMJ\ArraySMJ\bin\Debug\ArraySMJ.exe
+D:\UST\Day30\ArraySMJ\ArraySMJ\bin\Debug\ArraySMJ.pdb
+D:\UST\Day30\ArraySMJ\ArraySMJ\obj\Debug\ArraySMJ.csproj.AssemblyReference.cache
+D:\UST\Day30\ArraySMJ\ArraySMJ\obj\Debug\ArraySMJ.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day30\ArraySMJ\ArraySMJ\obj\Debug\ArraySMJ.csproj.CoreCompileInputs.cache
+D:\UST\Day30\ArraySMJ\ArraySMJ\obj\Debug\ArraySMJ.exe
+D:\UST\Day30\ArraySMJ\ArraySMJ\obj\Debug\ArraySMJ.pdb
